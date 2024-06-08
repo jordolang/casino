@@ -1,0 +1,337 @@
+{
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x445"
+                }
+            }
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "670x675"
+                },
+                "background_image": {
+                    "size": "1920x800"
+                }
+            }
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "185x215"
+                }
+            },
+            "title": "text",
+            "subtitle": "text",
+            "button_name": "text",
+            "button_url": "text",
+            "modal": true
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "485x510"
+                }
+            },
+            "heading": "text",
+            "description": "textarea"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "modal": true
+        }
+    },
+    "game": {
+        "builder": true,
+        "name": "Game Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "trx_win": {
+        "builder": true,
+        "name": "Transactions & Winner",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "why_choose_us": {
+        "builder": true,
+        "name": "Why Choose Us",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "digit": "text",
+            "modal": true
+        }
+    },
+    "achivement": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Achivement",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "35x35"
+                }
+            },
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "560x565"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "how_work": {
+        "builder": true,
+        "name": "How it work",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "65x65"
+                }
+            },
+            "title": "text",
+            "modal": true
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "Call To Action",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "340x325"
+                }
+            },
+            "heading": "text",
+            "description": "textarea",
+            "button": "text",
+            "button_url": "text"
+        }
+    },
+    "referral": {
+        "builder": true,
+        "name": "Referral Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "760x135"
+                }
+            },
+            "heading": "text",
+            "description": "textarea",
+            "button_name": "text",
+            "button_url": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "description": "textarea",
+            "button_name": "text",
+            "button_url": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "90x80"
+                }
+            },
+            "name": "text",
+            "quote": "textarea",
+            "modal": true
+        }
+    },
+    "payment_method": {
+        "builder": true,
+        "name": "Payment Method",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "90x65"
+                }
+            },
+            "modal": true
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "1010x500",
+                    "thumb": "505x250"
+                }
+            },
+            "title": "text",
+            "slug": "title",
+            "description": "textarea-nic",
+            "modal": false,
+            "seo": true
+        }
+    },
+    "footer": {
+        "name": "Footer",
+        "builder": true,
+        "no_selection": true,
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1110x420"
+                }
+            }
+        }
+    },
+    "login": {
+        "name": "Login Page",
+        "builder": true,
+        "no_selection": true,
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x1080"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "register": {
+        "name": "Register Page",
+        "builder": true,
+        "no_selection": true,
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x1080"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "560x565"
+                }
+            },
+            "heading": "text",
+            "contact_address": "text",
+            "contact_number": "text",
+            "email_address": "text"
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "slug": "title",
+            "details": "textarea-nic",
+            "modal": false,
+            "seo": true
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "user_kyc": {
+        "builder": true,
+        "no_selection": true,
+        "name": "User KYC Content",
+        "content": {
+            "verification_content": "textarea",
+            "pending_content": "textarea",
+            "reject": "textarea"
+        }
+    },
+    "banned": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banned Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "360x370"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "slider": {
+        "builder": true,
+        "name": "App Slider Section",
+        "element": {
+            "images": {
+                "image": {
+                    "size": "700x500",
+                    "thumb": "350x250"
+                }
+            },
+            "modal": true
+        }
+    }
+}

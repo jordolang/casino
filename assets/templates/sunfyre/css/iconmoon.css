@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Group-4:before {
+  content: "\e900";
+}
+.icon--Icon-olor-2:before {
+  content: "\e901";
+}
+.icon--Icon-olor-1:before {
+  content: "\e902";
+}
+.icon-Copy:before {
+  content: "\e903";
+}
+.icon-withdraw-1:before {
+  content: "\e904";
+}
+.icon-Deposit-1:before {
+  content: "\e905";
+}
+.icon-Layer-21:before {
+  content: "\e906";
+}
+.icon-medal:before {
+  content: "\e907";
+}
+.icon-Group-86:before {
+  content: "\e908";
+}
+.icon-Money-Bag:before {
+  content: "\e909";
+}
+.icon-Hide:before {
+  content: "\e90a";
+}
+.icon-Lock:before {
+  content: "\e90b";
+}
+.icon-User:before {
+  content: "\e90c";
+}
+.icon-Group-85:before {
+  content: "\e90d";
+}
+.icon-Email:before {
+  content: "\e90e";
+}
+.icon-Telepphone:before {
+  content: "\e90f";
+}
+.icon-Map:before {
+  content: "\e910";
+}
+.icon-dollar-symbol-1:before {
+  content: "\e911";
+}
+.icon-information-button-1:before {
+  content: "\e912";
+}
+.icon-Suppport:before {
+  content: "\e913";
+}
+.icon-Withdraw:before {
+  content: "\e914";
+}
+.icon-deposit:before {
+  content: "\e915";
+}
+.icon-linkedin-1:before {
+  content: "\e916";
+}
+.icon-twitter:before {
+  content: "\e917";
+}
+.icon-instagram:before {
+  content: "\e918";
+}
+.icon-Icon_11:before {
+  content: "\e919";
+}
+.icon-trophy:before {
+  content: "\e91a";
+}
+.icon-lottery-1-1:before {
+  content: "\e91b";
+}
+.icon-g1953:before {
+  content: "\e91c";
+}
+.icon-Group-3:before {
+  content: "\e91d";
+}
+.icon-Group-2:before {
+  content: "\e91e";
+}
+.icon-Group-1:before {
+  content: "\e91f";
+}
+.icon-sosial_networking:before {
+  content: "\e920";
+}
+.icon-poker-1-1:before {
+  content: "\e921";
+}
+.icon-Play:before {
+  content: "\e922";
+}
+.icon--Icon-olor:before {
+  content: "\e923";
+}
+.icon-Group:before {
+  content: "\e924";
+}

@@ -1,0 +1,61 @@
+.keno-number-plate {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.keno-number-plate .slot {
+    width: calc(10% - 10px);
+    background: transparent;
+    color: #e3bc3f;
+    font-weight: bold;
+    border: 1px solid #e3bc3f;
+}
+
+.keno-number-plate .slot.active {
+    background: #e3bc3f;
+    color: #000 !important;
+}
+
+.random-btn {
+    background: transparent;
+    border: 1px solid #1e9ff2;
+    color: #fff;
+}
+.random-btn:hover {
+    background-color: #1e9ff2;
+    transition: 0.5s;
+}
+.refresh-btn {
+    background: transparent;
+    border: 1px solid #28c76f;
+    color: #fff;
+}
+.refresh-btn:hover {
+    background-color: #28c76f;
+    transition: 0.5s;
+}
+
+.keno-number-plate .win {
+    border: 1px solid #28c76f;
+    background: #28c76f !important;
+}
+
+.keno-number-plate .loss {
+    border: 1px solid #c7170b;
+    background: #c7170b !important;
+}
+
+@media only screen and (max-width: 480px) and (min-width: 401px) {
+    .keno-number-plate .slot {
+        width: calc(12% - 10px);
+    }
+}
+
+@media (max-width: 400px) {
+    .keno-number-plate .slot {
+        width: calc(20% - 10px);
+    }
+}
+

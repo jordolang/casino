@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#dealer-cards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+
+#user-cards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+
+#hit {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+}
+
+#stay {
+  height: 50px;
+  font-size: 20px;
+}
+
+.dealer-image {
+  text-align: center;
+}
+
+.dealer-image img {
+  height: 80px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 2px solid #3fe3db;
+}
